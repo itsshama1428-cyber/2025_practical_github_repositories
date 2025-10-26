@@ -1,0 +1,6 @@
+For instructor:
+
+* Get all files into place by copying bin from last year
+* Copy/paste class list into "bin/student_list.txt"
+* Run ./bin/generate.sh
+* Perform a checkin 
